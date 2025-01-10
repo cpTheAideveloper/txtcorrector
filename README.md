@@ -1,4 +1,4 @@
-```markdown
+markdown
 # theAIDeveloper
 
 Learn how to create your own AI apps.
@@ -68,4 +68,4 @@ Explore our website: [theAIDeveloper.com](https://www.the-aideveloper.com/)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
