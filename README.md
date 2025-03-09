@@ -1,4 +1,3 @@
-markdown
 # theAIDeveloper
 
 Learn how to create your own AI apps.
